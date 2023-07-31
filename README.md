@@ -20,14 +20,16 @@ TIP:
 
 1. Clone it: 
 
-   - git clone git@github.com:crisjanaina/cypressinterview.git
+   - git clone <git@github.com:crisjanaina/cypressinterview.git>
 
 2. Install Cypress:
  
    - Execute this following command in the folder terminal: npm install cypress --save-dev
 
      TIP: 
+
         a. click with the right mouse button on the project folder;
+
         b. click in the Git Bash Here option.
 
     Or use the VS Code Terminal
