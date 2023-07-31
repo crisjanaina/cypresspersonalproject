@@ -9,7 +9,7 @@ This is a personal project using Cypress
 * [NodeJS] (https://nodejs.org/en/download)
 * [NPM] (https://www.npmjs.com/package/npm?activeTab=versions)
 * [Cypress] (https://cypress.io) 
-* [VS Code](https://code.visualstudio.com/download)
+* [VSCode] (https://code.visualstudio.com/download)
 * [Git] (https://git-scm.com/downloads)
 
 TIP:
@@ -20,7 +20,7 @@ TIP:
 
 1. Clone it: 
 
-   - git@github.com:crisjanaina/cypressinterview.git
+   - git clone git@github.com:crisjanaina/cypressinterview.git
 
 2. Install Cypress:
  
