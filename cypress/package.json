@@ -1,0 +1,23 @@
+{
+    "name": "cypress-interview",
+    "version":"1.0.0",
+    "Description":" Repository created for a test interview",
+    "main": "index.js",
+    "scripts": {
+  
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/crisjanaina/cypressinterview"
+    },
+    "keywords": [
+      "cypress",
+      "test",
+      "automation"
+    ],
+    "author": "Janaína Cristina Matheus Maciel <crisjanaina_mm@yahoo.com.br>",
+    "license": "ISC",
+    "devDependencies": {
+      "cypress": "^12.17.2"
+    }
+  }
