@@ -2,7 +2,7 @@
 
   This is a personal project using Cypress  💭 
 
-###How to set it up?###
+### ###How to set it up?### ###
 
 ## Requirements📢
 
