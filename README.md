@@ -25,7 +25,7 @@
 
 2. Install Cypress:
  
-   - Execute the following command in the folder terminal:
+  - Execute the following command in the folder terminal:
 
          npm install cypress --save-dev
 
