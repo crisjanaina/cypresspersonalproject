@@ -1,10 +1,10 @@
 # This is an automated test used for a technical interview 
 
-This is a personal project using Cypress 
+  This is a personal project using Cypress  💭 
 
 ### How to set it up? ###
 
-## Requirements
+## Requirements📢
 
 * [NodeJS] (https://nodejs.org/en/download)
 * [NPM] (https://www.npmjs.com/package/npm?activeTab=versions)
@@ -13,26 +13,28 @@ This is a personal project using Cypress
 * [Git] (https://git-scm.com/downloads)
 
 TIP:
-- The Node JS also install the NPM
+- The Node JS also installs the NPM
 
 
 ## How to run the project locally
 
 1. Clone it: 
 
-   - git clone https://github.com/crisjanaina/cypressinterview.git
+        git clone https://github.com/crisjanaina/cypressinterview.git
 
 2. Install Cypress:
  
-   - Execute this following command in the folder terminal: npm install cypress --save-dev
+   - Execute the following command in the folder terminal:
 
-     TIP: 
+         npm install cypress --save-dev
 
-         a. click with the right mouse button on the project folder;
+   💡TIP: 
 
-         b. click in the Git Bash Here option.
+     a. click with the right mouse button on the project folder;
 
-    Or use the VS Code Terminal
+     b. click on the Git Bash Here option.
+
+     Or use the VS Code Terminal
 
 3. Run the tests
  
@@ -41,7 +43,9 @@ TIP:
 
 4. To initialize Cypress for the first time
   
-   - Execute the following command: npx cypress open
+   - Execute the following command:
+   
+         npx cypress open
 
 
 ## My contact
