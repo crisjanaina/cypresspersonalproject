@@ -2,7 +2,7 @@
 
 This is a personal project using Cypress 
 
-### How to set it up? ###
+## How to set it up? ###
 
 ## Requirements
 
@@ -20,7 +20,7 @@ TIP:
 
 1. Clone it: 
 
-   - git clone (git@github.com:crisjanaina/cypressinterview.git)
+   - git clone https://github.com/crisjanaina/cypressinterview.git
 
 2. Install Cypress:
  
