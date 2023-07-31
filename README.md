@@ -2,7 +2,7 @@
 
   This is a personal project using Cypress  💭 
 
-### How to set it up? ###
+###How to set it up?###
 
 ## Requirements📢
 
@@ -12,7 +12,8 @@
 * [VSCode] (https://code.visualstudio.com/download)
 * [Git] (https://git-scm.com/downloads)
 
-TIP:
+💡TIP:
+
 - The Node JS also installs the NPM
 
 
