@@ -21,7 +21,7 @@
 
 1. Clone it: 
 
-        git clone https://github.com/crisjanaina/cypressinterview.git
+         git clone https://github.com/crisjanaina/cypressinterview.git
 
 2. Install Cypress:
  
@@ -29,22 +29,22 @@
 
          npm install cypress --save-dev
 
-   💡TIP: 
+💡TIP: 
 
-     a. click with the right mouse button on the project folder;
+  - click with the right mouse button on the project folder;
 
-     b. click on the Git Bash Here option.
+  - click on the Git Bash Here option.
 
      Or use the VS Code Terminal
 
 3. Run the tests
  
-   - Open the VS Code 
-   - Open a VS Code terminal
+  - Open the VS Code 
+  - Open a VS Code terminal
 
 4. To initialize Cypress for the first time
   
-   - Execute the following command:
+  - Execute the following command:
    
          npx cypress open
 
