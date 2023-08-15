@@ -1,4 +1,4 @@
-# This is an automated test used for a technical interview and it is a personal project
+### This is an automated test used for a technical interview and it is a personal project
 
   This is a personal project using Cypress  💭 
 
